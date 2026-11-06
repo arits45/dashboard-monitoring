@@ -1,0 +1,5 @@
+# Publish only the encrypted page. Sources contain the sheet address and plain data.
+*
+!.gitignore
+!docs/
+!docs/index.html
